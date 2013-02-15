@@ -63,12 +63,12 @@ That said, I want to issue a warning not to try and revolutionize your little. M
 There is a vetting and interview process. To subsidize the vetting process, you pay them a fee ($35) to apply. You will also have to gather something like four recommendations before your application is considered complete. Good people to ask for the recommendations are family members, life coaches, and your best friends.
 
 I looked at my previous emails, and here is the rough timeline for how long it took for me. Please note that it differs for each Big what the process time is. For you it may be shorter or longer, depending on the Littles that are available and what they are looking for in terms of age, gender, interests, etc.
-<ul>
-	<li>Online application to response from a person - 4 days</li>
-	<li>Follow up for scheduling in-person email - 5 days</li>
-	<li>Contact from interviewer - 1 week</li>
-	<li>Interview - 3 days</li>
-	<li>Orientation - 2 weeks</li>
-	<li>Meet little formally - 4 weeks</li>
-</ul>
+
+* Online application to response from a person - 4 days
+* Follow up for scheduling in-person email - 5 days
+* Contact from interviewer - 1 week
+* Interview - 3 days
+* Orientation - 2 weeks
+* Meet little formally - 4 weeks
+
 [1] I probably am very similar to the reader in this regard. I believe in the essential goodness of humanity and want to make a difference in the world.

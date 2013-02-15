@@ -28,26 +28,6 @@ meta:
   _yoast_wpseo_google-plus-description: ''
   dsq_thread_id: '842014228'
 ---
-<a href="http://www.martyhu.com/blog/wp-content/uploads/2012/02/introspection.jpg"><img class="size-medium wp-image-288 " title="real introspection" src="http://www.martyhu.com/blog/wp-content/uploads/2012/02/introspection-300x225.jpg" alt="&quot;NICO looks at himself&quot; - Wikipedia" width="300" height="225" /></a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <em>Sleep Hypopnea</em>
 
 I got dinner with one of my good friends yesterday. A few months ago, he had joined a sleep study because he was getting very poor sleep in his graduate student life. So he figured that something must be up and planned to get it checked out. So he paid for a sleep study (these are in generally high demand; you pay them instead of them paying you) and got it checked out over winter break.

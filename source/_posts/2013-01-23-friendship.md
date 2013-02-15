@@ -35,11 +35,12 @@ My best friends in middle school became such because they were the other kids wh
 In high school, we were in all the same activities together. We skipped grades in Math and Science together and took many of the same AP classes. One of my friends became the President of the Palo Alto High School "Hair on Fire" Math Club. Another served as Captain of the Science Olympiad and Key Club International. Two others became Eagle Scouts before me in my Boy Scout troop. Thankfully for me, I have never been the type to get jealous.
 
 I believe that accomplishments often derive from character. I learned this from observing a habit of one of my friends:
-<blockquote>On weekends, we used to go to each other's houses to play Super Smash Brothers Melee. Most of the time, we ended up at the house of one particular friend. This friend was (and still is) a highly self-motivated person. His parents spent a lot of time doing business in China so he was home most of the time with just his nanny and younger sister.
+> On weekends, we used to go to each other's houses to play Super Smash Brothers Melee. Most of the time, we ended up at the house of one particular friend. This friend was (and still is) a highly self-motivated person. His parents spent a lot of time doing business in China so he was home most of the time with just his nanny and younger sister.
 
-This friend had the largest television of any of us, along with four controllers to boot. He was easily the best Super Smash Brothers player in our group and in my opinion enjoyed the game more than anyone else.
+> This friend had the largest television of any of us, along with four controllers to boot. He was easily the best Super Smash Brothers player in our group and in my opinion enjoyed the game more than anyone else.
 
-Despite his enthusiasm for the game, he would occasionally leave us in the midst of our gaming marathon to practice piano. He would promptly excuse himself, set a timer, and steadfastly practice his composition. Ignoring the piano, the rest of us would excitedly continue to game. Hours would pass. When it ultimately grew dark and we were leaving to bike home, he would often still be at the piano, practicing.
+> Despite his enthusiasm for the game, he would occasionally leave us in the midst of our gaming marathon to practice piano. He would promptly excuse himself, set a timer, and steadfastly practice his composition. Ignoring the piano, the rest of us would excitedly continue to game. Hours would pass. When it ultimately grew dark and we were leaving to bike home, he would often still be at the piano, practicing.
 
-Today, my friend is an outstanding piano player. He is also a PhD fellow in Astrophysics at MIT.</blockquote>
+> Today, my friend is an outstanding piano player. He is also a PhD fellow in Astrophysics at MIT.
+
 Neither of us has enough time to smash anymore. We've gone our separate ways and no longer share the same activities. But we continue to share a mutual respect.

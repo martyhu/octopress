@@ -22,26 +22,6 @@ meta:
   dsq_thread_id: '803874205'
   _yoast_wpseo_linkdex: '0'
 ---
-<a href="http://www.martyhu.com/blog/wp-content/uploads/2012/01/ramen.jpg"><img class="alignleft size-medium wp-image-259" title="Ramen" src="http://www.martyhu.com/blog/wp-content/uploads/2012/01/ramen-300x225.jpg" alt="Do startups really eat ramen anymore?" width="300" height="225" /></a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 Everyone seems to think that because I'm starting a company, I do nothing but eat ramen all of the time [1]. Nothing could be further from the truth; in fact I haven't eaten ramen once since starting this company. I think it's just plain unhealthy and doesn't taste very good. If I had to eat ramen, that would be a real low point of my life.
 
 Even without ramen, we still manage to be very scrappy when it comes to food:

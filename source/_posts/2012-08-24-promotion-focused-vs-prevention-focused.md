@@ -22,13 +22,14 @@ meta:
   _yoast_wpseo_opengraph-description: ''
   _yoast_wpseo_google-plus-description: ''
 ---
-One book I recently read and enjoyed immensely is <em>Succeed: How we can reach our goals</em> [1]. The chapter that stuck out to me as particularly interesting is the author's discussion of the difference between pursuing goals with a promotion vs. prevention focus.
+One book I recently read and enjoyed immensely is <em>Succeed: How We Can Reach Our Goals</em> [1]. The chapter that stuck out to me as particularly interesting is the author's discussion of the difference between pursuing goals with a promotion vs. prevention focus.
 
 An easy way to understand the difference between these two goals is tocontrast the parenting styles that are correlated with a promotion vs.prevention focus:
-<ul>
-	<li>In a promotion-focused family, the student who performs well is showered with praise, taken out for dinner, etc. However, when the student does not perform well, nothing happens. Someone who is promotion-focused is generally very accomplishment-oriented and is willing to risk failure in order to not miss out on a possible best outcome.</li>
-	<li>By contrast, the student in a prevention-focused family does not receive any reward for performing well. However, if the student under performs, his/her parents will be quick to employ punishment. Someone raised with a prevention-focused background is generally very safety-oriented and prefers avoiding a bad situation to possible good outcome with high risk.</li>
-</ul>
+
+* In a promotion-focused family, the student who performs well is showered with praise, taken out for dinner, etc. However, when the student does not perform well, nothing happens. Someone who is promotion-focused is generally very accomplishment-oriented and is willing to risk failure in order to not miss out on a possible best outcome.
+
+* By contrast, the student in a prevention-focused family does not receive any reward for performing well. However, if the student under performs, his/her parents will be quick to employ punishment. Someone raised with a prevention-focused background is generally very safety-oriented and prefers avoiding a bad situation to possible good outcome with high risk.
+
 Of course, neither focus is necessarily better than the other [2]. However, knowing which focus you are can be very interesting for self-introspecting your other behaviors:
 
 In my own experience, the promotion-focus vs. prevention-focus theory has been ubiquitous for me since I read the chapter. I am definitely very prevention-focused (at least) in my approach towards problem solving. I would characterize myself as a very slow thinker: rather than relying chiefly on my intuition, I typically solve problems and arrive at decisions in a methodical and meticulous fashion. While I consider myself generally unlikely to stumble upon a stroke of genius, I can execute relatively well and generally avoid costly mistakes.

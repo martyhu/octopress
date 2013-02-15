@@ -35,8 +35,6 @@ meta:
   _yoast_wpseo_google-plus-description: ''
   dsq_thread_id: '799821747'
 ---
-<a href="http://www.martyhu.com/blog/wp-content/uploads/2012/01/mlk.jpg"><img class="size-medium wp-image-267 alignright" style="border-image: initial; margin: 20px;" title="Martin Luther King" src="http://www.martyhu.com/blog/wp-content/uploads/2012/01/mlk-200x300.jpg" alt="" width="200" height="300" /></a>
-
 <em>Martin Luther King</em>
 
 This past weekend, I picked up a copy of <em>Autobiography of Martin Luther King Jr.</em> on audio CD. The recording is a narrative pieced together from historian Clayborne Carson, who was given all of the private memoirs of the late Martin Luther King Jr. from his wife, Coretta Scott King. The tape is told in the first person, as if it were his autobiography.
@@ -50,8 +48,5 @@ For me, the content in the tape is some of the most compelling that I have ever 
 </ul>
 I wish you a happy Martin Luther King Jr. day.
 
-&nbsp;
-
-<span style="color: #181818; font-family: Georgia; font-size: 10pt; background-color: white;">"Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that." </span>
-
-<span style="color: #181818; font-family: Georgia; font-size: 10pt; background-color: white;">-- Martin Luther King, Jr.</span>
+> Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.
+> -- Martin Luther King, Jr.
