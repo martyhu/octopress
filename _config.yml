@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ec2-54-241-44-21.us-west-1.compute.amazonaws.com/blog
+url: http://www.martyhu.com/blog
 title: Marty Hu
 subtitle: Hacker and Entrepreneur
 author: martyhu
@@ -92,7 +92,7 @@ disqus_short_name: martyhu
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-23446376-1
 
 # Facebook Like
 facebook_like: true
